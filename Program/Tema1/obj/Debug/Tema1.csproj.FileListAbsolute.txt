@@ -1,0 +1,20 @@
+C:\Visual Projects\GC\Tema1\Tema1\bin\Debug\Tema1.exe.config
+C:\Visual Projects\GC\Tema1\Tema1\bin\Debug\Tema1.exe
+C:\Visual Projects\GC\Tema1\Tema1\bin\Debug\Tema1.pdb
+C:\Visual Projects\GC\Tema1\Tema1\obj\Debug\Tema1.csprojAssemblyReference.cache
+C:\Visual Projects\GC\Tema1\Tema1\obj\Debug\Tema1.Form1.resources
+C:\Visual Projects\GC\Tema1\Tema1\obj\Debug\Tema1.Properties.Resources.resources
+C:\Visual Projects\GC\Tema1\Tema1\obj\Debug\Tema1.csproj.GenerateResource.cache
+C:\Visual Projects\GC\Tema1\Tema1\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+C:\Visual Projects\GC\Tema1\Tema1\obj\Debug\Tema1.exe
+C:\Visual Projects\GC\Tema1\Tema1\obj\Debug\Tema1.pdb
+C:\Users\ecaterentiu\Desktop\Tema1\Tema1\bin\Debug\Tema1.exe.config
+C:\Users\ecaterentiu\Desktop\Tema1\Tema1\bin\Debug\Tema1.exe
+C:\Users\ecaterentiu\Desktop\Tema1\Tema1\bin\Debug\Tema1.pdb
+C:\Users\ecaterentiu\Desktop\Tema1\Tema1\obj\Debug\Tema1.csprojAssemblyReference.cache
+C:\Users\ecaterentiu\Desktop\Tema1\Tema1\obj\Debug\Tema1.Form1.resources
+C:\Users\ecaterentiu\Desktop\Tema1\Tema1\obj\Debug\Tema1.Properties.Resources.resources
+C:\Users\ecaterentiu\Desktop\Tema1\Tema1\obj\Debug\Tema1.csproj.GenerateResource.cache
+C:\Users\ecaterentiu\Desktop\Tema1\Tema1\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\ecaterentiu\Desktop\Tema1\Tema1\obj\Debug\Tema1.exe
+C:\Users\ecaterentiu\Desktop\Tema1\Tema1\obj\Debug\Tema1.pdb
